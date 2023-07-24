@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/USER/Documents/NetBeansProjects/codeforces/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/USER/Documents/NetBeansProjects/codeforces/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'codeforces 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/USER/Documents/NetBeansProjects/codeforces/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'codeforces 1.0-SNAPSHOT API'
+com.mycompany.codeforces
+'C:/Users/USER/Documents/NetBeansProjects/codeforces/src/main/java/com/mycompany/codeforces/Codeforces.java'
+'C:/Users/USER/Documents/NetBeansProjects/codeforces/src/main/java/com/mycompany/codeforces/codeforcesnew.java'
+'C:/Users/USER/Documents/NetBeansProjects/codeforces/src/main/java/com/mycompany/codeforces/InsertAndSearch.java'
+'C:/Users/USER/Documents/NetBeansProjects/codeforces/src/main/java/com/mycompany/codeforces/mediumnumber.java'
+'C:/Users/USER/Documents/NetBeansProjects/codeforces/src/main/java/com/mycompany/codeforces/mergeSort.java'
+'C:/Users/USER/Documents/NetBeansProjects/codeforces/src/main/java/com/mycompany/codeforces/NewClass.java'
+'C:/Users/USER/Documents/NetBeansProjects/codeforces/src/main/java/com/mycompany/codeforces/NewClass1.java'
+'C:/Users/USER/Documents/NetBeansProjects/codeforces/src/main/java/com/mycompany/codeforces/stringChecker.java'
+C:\Users\USER\Documents\NetBeansProjects\codeforces\src\main\java = 1675174782505
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\allclasses-frame.html = 1682487302225
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\allclasses-noframe.html = 1682487302226
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\constant-values.html = 1682487302152
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\deprecated-list.html = 1682487302224
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\help-doc.html = 1682487302229
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\index-all.html = 1682487302221
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\index.html = 1682487302227
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\overview-tree.html = 1682487302216
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\package-list = 1682487302138
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\script.js = 1682487302230
+C:\Users\USER\Documents\NetBeansProjects\codeforces\target\site\apidocs\stylesheet.css = 1675777299594
